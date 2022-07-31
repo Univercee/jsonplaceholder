@@ -2,6 +2,6 @@
     "posts":[
         {"id": 1, "title": "Penguins", "body": "Penguins are awesome!"},
         {"id": 2, "title": "Cats", "body": "Cats are awesome!"},
-        {"id": 3, "title": "Dogs", "body": "Awesome!"},
+        {"id": 3, "title": "Dogs", "body": "Awesome!"}
     ]
 }
